@@ -8,5 +8,5 @@ Integrantes
 
 Grupo: JavaChiquis
 
-Universidad Cooperativa de Colombia
+Universidad Cooperativa de Colombia.
 Sede Bogota
